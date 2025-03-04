@@ -19,8 +19,6 @@ Used Excel to classify data and draw business conclusions
 
 [Deloitte Australia.ipynb](https://github.com/reuel97/Deloitte-Australia/blob/main/Deloitte%20Australia.ipynb)
 
-[Task 5 Equality Table.xlsx](https://github.com/reuel97/Deloitte-Australia/blob/main/Task%205%20Equality%20Table.xlsx)
-
 
 ## Result/ Presentation
 
